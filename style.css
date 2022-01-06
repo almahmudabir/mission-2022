@@ -35,6 +35,7 @@ body {
 }
 .second-banner {
   margin-top: 50px;
+  padding-left: 45px;
 }
 .mission {
   background-color: rgba(125, 207, 207, 0.308);
@@ -62,14 +63,85 @@ body {
 }
 .container-two {
   display: flex;
-  justify-content: space-around;
-}
-.third-width {
-  width: 60%;
-}
-.third-width img {
-  width: 60%;
 }
 .third-banner {
   margin-top: 80px;
+  background-image: url(./shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 12%;
+  background-position-y: 20%;
+}
+.third-width {
+  width: 40%;
+}
+.third-width img {
+  width: 70%;
+  padding-left: 60px;
+}
+.read {
+  background-color: orangered;
+  padding: 10px 20px;
+  border-radius: 12px;
+  text-decoration: none;
+  color: black;
+}
+.fourth-banner {
+  margin-top: 80px;
+  background-image: url(./shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-size: 12%;
+  background-position-x: 95%;
+  background-position-y: 105%;
+}
+.hub {
+  background-color: orangered;
+  padding: 10px 20px;
+  border-radius: 12px;
+  text-decoration: none;
+  color: black;
+}
+.container-three {
+  display: flex;
+}
+.fourth-width {
+  width: 50%;
+  margin-left: 10%;
+}
+.fourth-width img {
+  width: 75%;
+}
+.last-heading {
+  font-size: 45px;
+  text-align: center;
+  color: rgba(0, 0, 19, 0.911);
+}
+.myself-banner {
+  margin-top: 100px;
+}
+.myself-container {
+  display: flex;
+}
+.myself-width {
+  width: 50%;
+  margin-left: 5%;
+  padding-right: 50px;
+}
+.myself-width img {
+  width: 75%;
+  padding-left: 60px;
+  margin-left: 30px;
+}
+.visit {
+  background-color: orangered;
+  padding: 10px 20px;
+  border-radius: 12px;
+  text-decoration: none;
+  color: black;
+}
+.last-footer {
+  text-align: center;
+  background-color: black;
+}
+.white-color {
+  text-decoration-color: blanchedalmond;
 }
