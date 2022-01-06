@@ -60,3 +60,16 @@ body {
   width: 25%;
   padding: 25px;
 }
+.container-two {
+  display: flex;
+  justify-content: space-around;
+}
+.third-width {
+  width: 60%;
+}
+.third-width img {
+  width: 60%;
+}
+.third-banner {
+  margin-top: 80px;
+}
