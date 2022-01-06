@@ -1,0 +1,62 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.headding {
+  font-family: "Yeseva One", cursive;
+  font-size: 60px;
+  border-left: 4px solid orangered;
+  padding-left: 10px;
+}
+.orange-color {
+  color: orange;
+}
+
+.top-banner {
+  display: flex;
+  justify-content: space-around;
+}
+.half-width {
+  width: 40%;
+}
+.half-width img {
+  width: 60%;
+}
+.anchor {
+  background-color: orangered;
+  padding: 10px 20px;
+  border-radius: 12px;
+  text-decoration: none;
+  color: black;
+}
+.second-headding {
+  font-size: 45px;
+  text-align: center;
+  color: rgb(1, 1, 27);
+}
+.second-banner {
+  margin-top: 50px;
+}
+.mission {
+  background-color: rgba(125, 207, 207, 0.308);
+}
+.vission {
+  background-color: rgba(231, 122, 142, 0.336);
+}
+.goals {
+  background-color: rgba(184, 184, 127, 0.521);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.cartoon {
+  width: 25%;
+  padding: 10px;
+}
+.card {
+  border-radius: 26px;
+  width: 25%;
+  padding: 25px;
+}
